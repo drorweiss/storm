@@ -36,7 +36,7 @@
     </developers>
 
     <properties>
-        <hikari.version>2.2.5</hikari.version>
+        <hikari.version>2.3.13</hikari.version>
     </properties>
 
     <dependencies>
@@ -115,7 +115,7 @@
                             <driver>org.hsqldb.jdbcDriver</driver>
                             <url>jdbc:hsqldb:mem:test;shutdown=false</url>
                             <username>SA</username>
-                            <password></password>
+                            <password/>
                             <autocommit>true</autocommit>
                             <srcFiles>
                                 <srcFile>src/test/sql/test.sql</srcFile>
