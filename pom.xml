@@ -82,7 +82,7 @@
             <roles>
                 <role>Committer</role>
             </roles>
-            <timezone />
+            <timezone/>
         </developer>
         <developer>
             <id>afeng</id>
@@ -109,7 +109,7 @@
             <roles>
                 <role>Committer</role>
             </roles>
-            <timezone />
+            <timezone/>
         </developer>
         <developer>
             <id>jjackson</id>
@@ -211,7 +211,7 @@
         <servlet.version>2.5</servlet.version>
         <joda-time.version>2.3</joda-time.version>
         <jackson.version>2.3.1</jackson.version>
-        <thrift.version>0.9.2</thrift.version>
+        <thrift.version>0.16.0</thrift.version>
         <junit.version>4.11</junit.version>
     </properties>
 
